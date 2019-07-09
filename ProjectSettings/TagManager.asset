@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - PostProcessingTest
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: tower
+    uniqueID: 1990089059
+    locked: 0
+  - name: mountains
+    uniqueID: 3769216645
+    locked: 0
+  - name: buildings
+    uniqueID: 3374622561
+    locked: 0
+  - name: trees
+    uniqueID: 2816920303
     locked: 0
