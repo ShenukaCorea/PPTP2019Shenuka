@@ -50,6 +50,9 @@ TagManager:
   - name: buildings
     uniqueID: 3374622561
     locked: 0
+  - name: foreground
+    uniqueID: 398769757
+    locked: 0
   - name: trees
     uniqueID: 2816920303
     locked: 0
