@@ -47,8 +47,26 @@ TagManager:
   - name: mountains
     uniqueID: 3769216645
     locked: 0
+  - name: hills
+    uniqueID: 1544982405
+    locked: 0
   - name: buildings
     uniqueID: 3374622561
+    locked: 0
+  - name: bell
+    uniqueID: 1110751927
+    locked: 0
+  - name: buildings1
+    uniqueID: 2538445305
+    locked: 0
+  - name: background trees
+    uniqueID: 361615445
+    locked: 0
+  - name: buildings2
+    uniqueID: 4082785115
+    locked: 0
+  - name: buildings3
+    uniqueID: 2364909089
     locked: 0
   - name: foreground
     uniqueID: 398769757
