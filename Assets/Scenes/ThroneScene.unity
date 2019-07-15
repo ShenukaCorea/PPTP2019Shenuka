@@ -211,7 +211,7 @@ MonoBehaviour:
   xMax: 0
   yMin: 0
   yMax: 0
-  maxSpeed: 0
+  maxSpeed: 0.3
   acc: 0
 --- !u!1 &561808532
 GameObject:
